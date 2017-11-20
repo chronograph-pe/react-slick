@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "start": "gulp server",
-    "install": "babel ./src --out-dir ./lib && gulp dist",
+    "install": "babel ./src --out-dir ./lib",
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "eslint src"
