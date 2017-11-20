@@ -5,7 +5,8 @@
   "main": "./lib",
   "files": [
     "dist",
-    "lib"
+    "lib",
+    "src"
   ],
   "scripts": {
     "start": "gulp server",
